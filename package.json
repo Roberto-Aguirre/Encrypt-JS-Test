@@ -1,0 +1,28 @@
+{
+  "name": "encrypt-js-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roberto-Aguirre/Encrypt-JS-Test.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roberto-Aguirre/Encrypt-JS-Test/issues"
+  },
+  "homepage": "https://github.com/Roberto-Aguirre/Encrypt-JS-Test#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
